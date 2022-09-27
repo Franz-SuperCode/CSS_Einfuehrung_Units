@@ -1,0 +1,39 @@
+section {
+    font-size: 1.5rem;
+    border: 2px solid black;
+}
+
+section ul {
+    padding-inline-start: 1.5em;
+}
+
+
+section ul li {
+    font-size: 0.8em;
+    line-height: 1.5em;
+}
+
+
+.dog_ul {
+    list-style: "🐕";
+}
+
+.cat_ul {
+    list-style: "🐈";
+}
+
+.parrots_ul {
+    list-style: "🦜";
+}
+
+.snakes_ul {
+    list-style: "🐍";
+}
+
+.lizzards_ul {
+    list-style: "🐊";
+}
+
+.list_none {
+    list-style: none;
+}
